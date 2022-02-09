@@ -1,5 +1,5 @@
-# Lab0: Getting Acquainted with XINU
+# Lab1: Process management and scheduling
 
 See xinu-setup.html for Xinu setup.
 
-See lab0.html for lab handout.
+See lab1.html for lab handout.
